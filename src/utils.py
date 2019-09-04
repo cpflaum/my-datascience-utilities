@@ -6,4 +6,4 @@ def hello_world():
 def show_df(df):
     print(df.shape)
     display(df.head())
-    difplay(df.describe())
+    display(df.describe())
